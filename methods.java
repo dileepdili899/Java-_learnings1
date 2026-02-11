@@ -20,4 +20,4 @@ class Example2
    Example2 obj=new Example2();
    obj.add(10,20);
 }
-}
+}   
